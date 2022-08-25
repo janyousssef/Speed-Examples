@@ -1,7 +1,8 @@
 # Speed-Examples
 A repo where i keep examples of speed saving techniques/tips.
 
-## 1. A Demonstration of the time-saving ability of Memoization technique
+## 1. A Demonstration of the time-saving ability of Memoization technique  
+[Click me for the code](url)    
 This code was originally made to solve the "Longest Increasing subsequance" problem, I got curious about how much of an effect memoization has, and when I found out, I had to share it with you ^_^ :D.     
 
 Input format: N followed by N numbers   
