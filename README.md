@@ -16,3 +16,7 @@ Expected outputs:
 15  
 25  
 
+![image](https://user-images.githubusercontent.com/84196929/186551506-87d9b5d5-b7f0-4541-9552-2ed6581f4ffa.png)
+
+
+
